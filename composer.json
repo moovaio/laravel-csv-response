@@ -3,7 +3,7 @@
     "license": "MIT",
     "description": "Add a CSV response type to Laravel (moova.io fork for neoxia/laravel-csv-response)",
     "require": {
-        "php": ">=5.5.9",
+        "php": ">=8.1.10",
         "illuminate/routing": "^6.0|^7.0|^8.0|^8.1|^8.2",
         "illuminate/support": "^6.0|^7.0|^8.0|^8.1|^8.2"
     },
