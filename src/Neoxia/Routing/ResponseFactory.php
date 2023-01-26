@@ -58,7 +58,6 @@ class ResponseFactory extends BaseResponseFactory
     protected function dataIsEmpty($data)
     {
         if (is_array($data)) {
-            // $data = collect($data);
             return empty($data);
         }
 
